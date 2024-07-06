@@ -1,19 +1,4 @@
-From acb3659accef034a8f52fe8c6f7bae75c3ccf070 Mon Sep 17 00:00:00 2001
-From: Daniel Kogan <54873722+daminals@users.noreply.github.com>
-From: Daniel Kogan <danielkoganx@gmail.com>
-Date: Tue, 23 Nov 2021 20:33:09 -0500
-Subject: [PATCH] updated app that achieves all stated goals : submission
 
----
- package-lock.json | 175 ++++++++++++++++++++++++++++++++++++++++------
- src/App.tsx       |  26 +++++--
- src/Graph.tsx     |  16 +++--
- 3 files changed, 183 insertions(+), 34 deletions(-)
-
-diff --git a/package-lock.json b/package-lock.json
-index 3c8c001..3138b7e 100644
---- a/package-lock.json
-+++ b/package-lock.json
 @@ -1507,9 +1507,9 @@
        "integrity": "sha512-2NVovndCjJQj6fUUn9jCgpP4WSqr+u1SoUZMZyJkhGeBFsm6dE46l31S7lPUYt9uQ28XI+ibrJA1f5XyH5HNtA=="
      },
