@@ -1,7 +1,4 @@
-From 5e9448121afdc3721ca52224e9de44a76ce4fe36 Mon Sep 17 00:00:00 2001
-From: Daniel Kogan <danielkoganx@gmail.com>
-Date: Tue, 23 Nov 2021 10:51:07 -0500
-Subject: [PATCH] Create Patch File
+
 
 ---
  __pycache__/client3.cpython-37.pyc | Bin 0 -> 1178 bytes
